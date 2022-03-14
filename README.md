@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ahna Mohiuddin.
-- 👀 My interests include (but are not limited to) all things related to cyber security.
 - 📫 You can reach me at ahna.mohiuddin@gmail.com or amohiudd@gmu.edu
 
 <!---
